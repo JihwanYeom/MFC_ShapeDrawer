@@ -1,4 +1,5 @@
 # MFC 라이브러리를 이용해 도형 그리기 프로그램 제작하기
+![스샷1](https://github.com/user-attachments/assets/7c0c3ef4-2ed2-49f4-91eb-e3c04e6200ee)
 - C++과 MFC라이브러리를 사용하여 작성되었습니다
 - 프로그램은 ShapeDrawer.exe를 실행하여 확인할 수 있습니다
 
